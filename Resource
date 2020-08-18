@@ -1,1 +1,2 @@
 1.一文介绍Transformer：https://mp.weixin.qq.com/s/WDq8tUpfiKHNC6y_8pgHoA
+2.Annotated Transformer:http://nlp.seas.harvard.edu/2018/04/03/attention.html
