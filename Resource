@@ -2,3 +2,4 @@
 2.Annotated Transformer:http://nlp.seas.harvard.edu/2018/04/03/attention.html
 3.手把手从头训练语言模型:https://www.leiphone.com/news/202002/zZGmYaXpfgKMhnal.html
 4.Transformer 详解https://zhuanlan.zhihu.com/p/107891957
+5.Annotated Transformer中文详解: https://zhuanlan.zhihu.com/p/107891957
